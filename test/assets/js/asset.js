@@ -1,0 +1,1 @@
+// Exmaple JS file named asset
